@@ -9,7 +9,7 @@
 
 ## Why?
 
-Three.js is an incredible library, which makes it possible for us front-end mortals to tap into the power of WebGL. Without it, creating the simplest of scenes involves a vertiginous learning curve.
+Three.js is an incredible library, which makes it possible for us front-end mortals to tap into the power of WebGL. Without it, creating the simplest of scenes involve a vertiginous learning curve.
 
 It's also monolithic and a *bit* on the chunky side.
 
